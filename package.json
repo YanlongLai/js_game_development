@@ -1,0 +1,25 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "gamecenter",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YanlongLai/js_game_development.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "yanlong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YanlongLai/js_game_development/issues"
+  },
+  "homepage": "https://github.com/YanlongLai/js_game_development#readme",
+  "devDependencies": {
+    "webpack": "^1.12.10"
+  }
+}
